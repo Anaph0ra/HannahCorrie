@@ -25,12 +25,14 @@ body{
 
 #container{
 /*	background-color:greenyellow;*/
+	margin-top: 100px;
 	width:880px;
 	height:250px;
-	transform: translate(-50%, -50%);
-	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
 	top: 30%;
 	left:50%
+	
 }
 
 
@@ -43,13 +45,18 @@ body{
 /*	padding: 2px;*/
 /*	margin-right: 25px;*/
 	width:200px;
-	height:200px;
+	height:150px;
 	object-fit: fill;
 	position: relative;
 	border-style:solid;
 	border-width: 2px;
 	border-color: black;
 }
+
+.thub:hover{
+	opacity: 0.5;
+}
+
 #name{
 /*	background-color: aqua;*/
 	font-size: 20px;
