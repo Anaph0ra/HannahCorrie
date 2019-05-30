@@ -61,7 +61,7 @@ font-family: 'Assistant', sans-serif;
 
 #name{
 /*	background-color: aqua;*/
-	font-size: 20px;
+	font-size: 25px;
 	font-weight: bold;
 }
 
@@ -81,15 +81,21 @@ font-family: 'Assistant', sans-serif;
 }
 
 #bio{
+	font-size: 15px;
 	margin-top: 20px;
 }
 
 #contact{
+	font-size: 15px;
 	top: 80%;
 
 }
+#email{
+	font-size: 15px;
+}
 
 #instagram{
+	font-size: 15px;
 	border-style: none;
 	border: 0;
 }
