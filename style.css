@@ -50,9 +50,9 @@ font-family: 'Assistant', sans-serif;
 	height:150px;
 	object-fit: fill;
 	position: relative;
-	border-style:solid;
+/* 	border-style:solid;
 	border-width: 2px;
-	border-color: black;
+	border-color: black; */
 }
 
 .thub:hover{
