@@ -37,7 +37,7 @@ function draw(){
 }
 //-----------------
 function show(){
-	cityPic.style('background-color', 'aqua');
+	// cityPic.style('background-color', 'aqua');
 	cityFo.style('visibility', 'visible');
 }
 function hide(){
